@@ -1,3 +1,3 @@
-print("Stackpython")
+print("Stackpy")
 print("Stackpython")
 print("Stackpython")
